@@ -1,0 +1,13 @@
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\bin\Debug\netcoreapp3.1\LeaveSystem.exe
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\bin\Debug\netcoreapp3.1\LeaveSystem.deps.json
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\bin\Debug\netcoreapp3.1\LeaveSystem.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\bin\Debug\netcoreapp3.1\LeaveSystem.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\bin\Debug\netcoreapp3.1\LeaveSystem.dll
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\bin\Debug\netcoreapp3.1\LeaveSystem.pdb
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.dll
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.pdb
+C:\Users\SAMSUNG\source\repos\LeaveSystem\LeaveSystem\obj\Debug\netcoreapp3.1\LeaveSystem.genruntimeconfig.cache
